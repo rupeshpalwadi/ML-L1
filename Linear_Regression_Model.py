@@ -46,5 +46,5 @@ style.use("ggplot")
 pyplot.scatter(data[p], data["G3"])
 pyplot.xlabel(p)
 pyplot.ylabel("Final Grade")
-#pyplot.show()
+pyplot.show()
 
